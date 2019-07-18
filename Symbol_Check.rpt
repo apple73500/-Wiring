@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : democ2.brd                                    )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Thu Jul 18 09:05:07 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	c:/Users/user/Desktop/work/PCB_lib/pcb/symbols
+	C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols
+	C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/allegrolib/symbols
+	C:/USERS/USER/DESKTOP/WORK/PCB_LIB/PSM/
+	C:/Users/user/Desktop/work/PCB_lib/pad/
+	C:/Users/user/Desktop/work/PCB_lib/psm/
+
+
+All Symbols Found
+
+Total symbols placed:      85 out of 85
+
+

@@ -1,0 +1,73 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Thu Jul 18 09:45:24 2019
+\t (00:00:03)         Host=DESKTOP-0CCQGI6 User=user Pid=1276 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: c:/Users/user/Desktop/work/PCB EX a.b/democ2.brd
+\i (00:00:05) trapsize 69
+\i (00:00:05) trapsize 68
+\i (00:00:05) trapsize 69
+\i (00:00:05) trapsize 77
+\i (00:00:05) trapsize 77
+\i (00:00:06) generaledit 
+\i (00:00:07) pick grid 2994.2 1740.5
+\t (00:00:07) last pick:  3000.0 1750.0
+\i (00:00:09) roam start
+\i (00:00:09) roam y -48
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -32
+\i (00:00:09) roam y -48
+\i (00:00:09) roam y -64
+\i (00:00:09) roam y -16
+\i (00:00:09) roam y -32
+\i (00:00:09) roam x 16
+\i (00:00:09) roam y -64
+\i (00:00:09) roam y -48
+\i (00:00:09) roam x 16
+\i (00:00:09) roam y -80
+\i (00:00:10) roam y -80
+\i (00:00:10) roam y -48
+\i (00:00:10) roam y -32
+\i (00:00:10) roam y -32
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y -16
+\i (00:00:10) roam y 32
+\i (00:00:10) roam x -16
+\i (00:00:10) roam y 176
+\i (00:00:10) roam x -48
+\i (00:00:10) roam y 272
+\i (00:00:10) roam y 272
+\i (00:00:10) roam y 144
+\i (00:00:10) roam y 80
+\i (00:00:10) roam y 64
+\i (00:00:10) roam x -16
+\i (00:00:10) roam y 48
+\i (00:00:11) roam y 32
+\i (00:00:11) roam y 16
+\i (00:00:11) roam y 16
+\i (00:00:11) roam end
+\i (00:00:12) add connect 
+\t (00:00:13) Pick first element.
+\i (00:00:13) pick grid 2742.5 1127.8
+\t (00:00:13) last pick:  2750.0 1125.0
+\t (00:00:13) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:13) last pick:  2750.0 1125.0
+\i (00:00:14) prepopup 2953.9 1146.3
+\i (00:00:27) pick grid 2878.3 1021.3
+\t (00:00:27) last pick:  2875.0 1025.0
+\t (00:00:27) No DRC errors detected.
+\t (00:00:27) last pick:  2875.0 1031.0
+\i (00:00:30) done 
+\i (00:00:30) generaledit 
+\i (00:00:31) prepopup 2862.9 1107.7
+\i (00:00:32) prepopup 2912.2 1144.7
+\i (00:00:34) undo 
+\i (00:00:34) trapsize 77
+\i (00:00:34) generaledit 
+\i (00:01:05) exit 
+\e (00:01:05) Do you want to save the changes you made to democ2.brd?
+\i (00:01:06) fillin no 
+\t (00:01:06)     Journal end - Thu Jul 18 09:46:27 2019
